@@ -2,11 +2,27 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### **Main Instructor**: *Exploratory Data Analysis & Visualization* - DA518
+#### Sabanci University, Spring 2022
 
-Organize your courses by years, topics, or universities, however you like!
+- Created and taught a 7-week course on the basics of exploratory data analysis and visualization for professionals working in the industry.
+- Developed all course material including programming tutorials, lecture presentations, and hands-on exercises.
+
+
+### **Head TA**: *Introduction to Data Science* - CS210
+#### Sabanci University, 6 semesters
+
+- Created the content of weekly-held problem-solving sessions.
+- Managed a team of TAs throughout the semester.
+
+
+### **TA**: *Computational Approaches to Problem Solving* - IF100
+#### Sabanci University, 4 semesters
+
+- Created the content of weekly-held problem-solving sessions.
+- Held weekly problem-solving sessions in Python, graded exams, and homework.
