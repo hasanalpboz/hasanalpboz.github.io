@@ -19,7 +19,7 @@ selected_papers: false
 social: true
 ---
 
-I am a fourth year CS PhD candidate in [Faculty of Engineering and Natural Sciences](fens.sabanciuniv.edu/en) at [Sabanci University](www.sabanciuniv.edu/en/), Istanbul, Turkey. Currently, I am a research assistant at [Behavioral Analytics and Visualization Lab (BAVLAB)](analyticslab.sabanciuniv.edu) where I am supervised by [Prof. Selim Balcisoy](https://fens.sabanciuniv.edu/en/faculty-members/detail/746).
+I am a fourth year CS PhD candidate in [Faculty of Engineering and Natural Sciences](https://fens.sabanciuniv.edu/en) at [Sabanci University](https://www.sabanciuniv.edu/en/), Istanbul, Turkey. Currently, I am a research assistant at [Behavioral Analytics and Visualization Lab (BAVLAB)](http://analyticslab.sabanciuniv.edu/) where I am supervised by [Prof. Selim Balcisoy](https://fens.sabanciuniv.edu/en/faculty-members/detail/746).
 
 Previously, I was a visiting student at [MIT Media Lab](https://www.media.mit.edu/) and worked with [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/) between September 2022 and February 2023.
 
